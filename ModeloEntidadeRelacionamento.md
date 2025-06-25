@@ -1,4 +1,6 @@
-## Tipos de relacionamentos
+## MER -  Modelo de Entidade e Relacionamento
+
+O MER é uma representação abstrata do modelo de dados, que ajuda a entender como as entidades se relacionam entre si.
 
 #### 1 to 1 :
 
